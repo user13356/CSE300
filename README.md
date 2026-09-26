@@ -5,7 +5,7 @@ LinkedIn: https://www.linkedin.com/in/cvans/
 #
 Hi, I'm a Cloud and Infrastructure Engineer with 21 years of experience in enterprise infrastructure, cloud, security, migrations, and disaster recovery.
 #
-Experience
+Experience:
 #
 -- Enterprise infrastructure and systems administration
 #
@@ -23,7 +23,7 @@ Experience
 #
 -- Infrastructure automation
 #
-Currently Learning
+Currently Learning:
 #
 -- Bicep
 #
@@ -39,7 +39,7 @@ Currently Learning
 #
 -- Generative AI
 #
-Career Focus
+Career Focus:
 #
 Working toward Platform Engineering, with a focus on:
 #
@@ -57,14 +57,14 @@ Working toward Platform Engineering, with a focus on:
 -- Scalable and reliable platforms
 #
 
-Continuous Learning
+Continuous Learning:
 #
 
 -- NTT DATA Services Percipio GenAI Academy - Yellow Belt Level 1
 #
 -- Cloud, automation, security, and platform engineering
 #
-Interests
+Interests:
 #
 -- Technology
 #
