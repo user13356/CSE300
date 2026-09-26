@@ -1,5 +1,6 @@
 # CSE300
 Corbin Van Scheltema Assignments
+#
 LinkedIn: https://www.linkedin.com/in/cvans/
 
 Hi, I'm a Cloud and Infrastructure Engineer with 21 years of experience in enterprise infrastructure, cloud, security, migrations, and disaster recovery.
