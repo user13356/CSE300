@@ -5,8 +5,7 @@ LinkedIn: https://www.linkedin.com/in/cvans/
 #
 Hi, I'm a Cloud and Infrastructure Engineer with 21 years of experience in enterprise infrastructure, cloud, security, migrations, and disaster recovery.
 #
-Experience:
-#
+Experience:#
 -- Enterprise infrastructure and systems administration
 #
 -- Microsoft Azure and AWS
@@ -43,7 +42,6 @@ Career Focus:
 #
 Working toward Platform Engineering, with a focus on:
 #
-
 -- Cloud infrastructure
 #
 -- Infrastructure as Code
