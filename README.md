@@ -43,8 +43,6 @@ Currently Learning:
 #
 Career Focus:
 #
-Working toward Platform Engineering, with a focus on:
-#
 - Cloud infrastructure
 #
 - Infrastructure as Code
