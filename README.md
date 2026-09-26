@@ -1,5 +1,5 @@
 # CSE300
-<h3 style="margin-bottom: 5px; margin-top: 5px;">Corbin Van Scheltema Assignment</h3>
+Corbin Van Scheltema Assignment
 #
 LinkedIn: https://www.linkedin.com/in/cvans/
 #
