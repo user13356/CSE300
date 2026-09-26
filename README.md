@@ -9,71 +9,72 @@ Experience:
 #
 - Enterprise infrastructure and systems administration
 #
--- Microsoft Azure and AWS
+- VMware and HCI major version upgrade projects
 #
--- Server upgrades, migrations, and rehosting
+- Microsoft Azure and AWS
 #
--- Domain and enterprise application migrations
+- Server upgrades, migrations, and rehosting
 #
--- Veeam backup and disaster recovery
+- Domain and enterprise application migrations
 #
--- Simplicity HCI
+- Veeam backup and disaster recovery
 #
--- Security and compliance
+- Simplicity HCI
 #
--- Infrastructure automation
+- Security and compliance
+#
+- Infrastructure automation
 #
 Currently Learning:
 #
--- Bicep
+- Bicep
 #
--- Terraform
+- Terraform
 #
--- Containers
+- Containers
 #
--- Cloud-native technologies
+- Cloud-native technologies
 #
--- Cloud and container security
+- Cloud and container security
 #
--- Platform Engineering
+- Platform Engineering
 #
--- Generative AI
+- Generative AI
 #
 Career Focus:
 #
 Working toward Platform Engineering, with a focus on:
 #
--- Cloud infrastructure
+- Cloud infrastructure
 #
--- Infrastructure as Code
+- Infrastructure as Code
 #
--- Containers
+- Containers
 #
--- Automation
+- Automation
 #
--- Security
+- Security
 #
--- Scalable and reliable platforms
+- Scalable and reliable platforms
 #
 
 Continuous Learning:
 #
-
--- NTT DATA Services Percipio GenAI Academy - Yellow Belt Level 1
+- NTT DATA Services Percipio GenAI Academy - Yellow Belt Level 1
 #
--- Cloud, automation, security, and platform engineering
+- Cloud, automation, security, and platform engineering
 #
 Interests:
 #
--- Technology
+- Technology
 #
--- Cars
+- Cars
 #
--- Sports
+- Sports
 #
--- Continuous learning
+- Continuous learning
 #
--- Community service
+- Community service
 #
 Always learning. Always building. Always looking for better solutions.
 #
